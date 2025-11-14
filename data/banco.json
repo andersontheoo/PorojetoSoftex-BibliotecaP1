@@ -1,0 +1,46 @@
+{
+    "livros": [
+        {
+            "id": 1,
+            "titulo": "Estrelas Além do Tempo",
+            "autor": "Margot Lee",
+            "ano": "2017",
+            "emprestado": false
+        },
+        {
+            "id": 2,
+            "titulo": "Historia antiga medieval",
+            "autor": "José jhonson",
+            "ano": "1998",
+            "emprestado": false
+        },
+        {
+            "id": 3,
+            "titulo": "O pequeno principe",
+            "autor": "Antoine de saint",
+            "ano": "1982",
+            "emprestado": false
+        }
+    ],
+    "membros": [
+        {
+            "id": 1,
+            "nome": "Anderson",
+            "email": "Anderson@gmail.com",
+            "emprestimos": []
+        },
+        {
+            "id": 2,
+            "nome": "Lais",
+            "email": "Lais@gmail.com",
+            "emprestimos": []
+        },
+        {
+            "id": 3,
+            "nome": "Silva",
+            "email": "Silva@gmail.com",
+            "emprestimos": []
+        }
+    ],
+    "emprestimos": []
+}
