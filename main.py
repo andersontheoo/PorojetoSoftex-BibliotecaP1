@@ -12,7 +12,6 @@ livros = []
 membros = []
 emprestimos = []
 
-
 def adicionar_livro():
     try:
         id = int(input("ID do livro: "))
